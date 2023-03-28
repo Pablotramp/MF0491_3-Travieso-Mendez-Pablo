@@ -1,0 +1,17 @@
+pre {
+  display: inline-block;
+}
+.soluc {
+  margin-top: 1em;
+}
+legend {
+  margin-top: 1em;
+  padding-left: 2em;
+  color: green;
+}
+#body {
+  padding-left: 3em;
+}
+h2 {
+  text-decoration: underline;
+}
